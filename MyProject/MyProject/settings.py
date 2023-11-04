@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-@b1!2ua=qn*h%@18th^68%l#-ry(ntbz$30#&7e7=sq+kt1oq0
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://weather-project-lime.vercel.app/',' 152.58.225.219']
+ALLOWED_HOSTS = ['.vercel.app',' 152.58.225.219']
 
 
 # Application definition
